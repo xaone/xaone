@@ -23,7 +23,7 @@
 
 <br/>  
 
-# <div align="center">Hi everyone! I am xaone.</div>  
+# <div align="center">Hi everyone! I am Nixie (xaone).</div>  
   
 
 - 🌱 I’m currently learning Machine Leaning.  
