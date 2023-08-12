@@ -24,10 +24,10 @@
 # <div align="center">Hi everyone! I am Nixie (xaone).</div>  
   
 
-- 🌱 I’m currently learning Machine Leaning.  
+- 🍇 I’m currently learning Machine Leaning.  
   
 
-- ⚡ Fun fact: I don't like cats.  
+- 🍇 Fun fact: I don't like cats.  
   
 
 <br/>  
