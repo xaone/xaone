@@ -23,7 +23,7 @@
 <br/>  
 
 # <div align="center">Hi everyone! I am Nixie (<span style="color: #8a63d2;">xaone</span>).</div>  
-  
+  <br/>  
 
 - 🍇 I’m currently learning Machine Leaning.  
   
@@ -51,28 +51,26 @@
 
 ## Github Stats  
 <div align="center">
+<br/>  <br/>  <br/>  
 
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaone&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="xaone" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaone&show_icons=true&locale=en&theme=midnight-purple" alt="xaone" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaone&theme=midnight-purple" alt="xaone" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaone&theme=midnight-purple" style="max-width: 100%" alt="xaone's Github Streak"  /></p>
+
 
 <br/>  
 </div>
 
   
 
-<br/>  
+
 
   
 
-<br/>  
 
-  
-
-<br/>  
 
 
 <br />
