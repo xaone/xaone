@@ -58,11 +58,7 @@
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaone&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="xaone" /></p>
 
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaone&show_icons=true&locale=en&theme=midnight-purple" alt="xaone" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaone&theme=midnight-purple" alt="xaone" /></p>
 
@@ -85,4 +81,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
