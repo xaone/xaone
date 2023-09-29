@@ -1,7 +1,7 @@
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V2dXd4cnprb3dlNWhweWJzNmVkcTZjc2Y3MTNhcjh6ZWJmc3hybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gjO0GyOGkfTQaMyjiJ/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" ></img></div>
 
 <br>
-[![An image of @xaone's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xaone)](https://holopin.io/@xaone)
+
 
 
 
