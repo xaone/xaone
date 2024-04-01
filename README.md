@@ -3,7 +3,7 @@
 <br>
 
 
-
+<!--- just --->
 
 
 <div align="center">
@@ -22,7 +22,8 @@
 
 <br/>  
 
-# <div align="center">Hi everyone! I am Nixie (<span style="color: #8a63d2;">xaone</span>).</div>  
+<!---# <div align="center">Hi everyone! I am Nixie (<span style="color: #8a63d2;">xaone</spa n>).</div>  --->
+# <div align="center">Hi everyone! I am Nixie.</div>  
   <br/>  
 
 - 🍇 I’m currently learning Machine Leaning.  
